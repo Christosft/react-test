@@ -12,7 +12,7 @@ const Layout  = ({ children }: LayoutProps) => {
         <>
             <div className="flex justify-center items-center min-h-screen bg-blue-600">
                 <div className="border border-black rounded-2xl shadow-lg p-6 w-full max-w-3xl min-h-[600px] bg-cover bg-center bg-no-repeat"
-                        style={{ backgroundImage: "url('/gal.jpg')" }}>
+                        style={{ backgroundImage: "url('/surf.jpg')" }}>
                     <Header />
                     {children}
                 </div>
